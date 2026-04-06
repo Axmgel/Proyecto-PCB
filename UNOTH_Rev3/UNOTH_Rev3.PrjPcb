@@ -50,6 +50,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=PCB1 - copia.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QKTXJESG
+
+[Document2]
 DocumentPath=..\OficialArduino\UNO-TH_Rev3e-Eagle\Imported UNO-TH_Rev3e.PrjPcb\UNO-TH_Rev3e.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCSJOUWE
 
-[Document2]
+[Document3]
 DocumentPath=..\OficialArduino\UNO-TH_Rev3e-Eagle\Imported UNO-TH_Rev3e.PrjPcb\UNO-TH_Rev3e.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XBFQSRIY
 
-[Document3]
+[Document4]
 DocumentPath=UNOTH_Rev3.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFTBQACZ
 
-[Document4]
+[Document5]
 DocumentPath=..\OficialArduino\UNO-TH_Rev3e-Eagle\Imported UNO-TH_Rev3e.PrjPcb\UNO-TH_Rev3e.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WWVHBCIL
 
-[Document5]
+[Document6]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
