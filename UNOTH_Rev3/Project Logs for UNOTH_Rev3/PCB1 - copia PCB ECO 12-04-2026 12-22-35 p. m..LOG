@@ -1,0 +1,502 @@
+Added Component: Designator=FD1(FIDUCIA-MOUNT)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "FIDUCIALMOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "FIDUCIAL"; VariantName = "[No Variations]"
+Added Component: Designator=FD2(FIDUCIA-MOUNT)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "FIDUCIALMOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "FIDUCIAL"; VariantName = "[No Variations]"
+Added Component: Designator=FD3(FIDUCIA-MOUNT)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "FIDUCIALMOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "FIDUCIAL"; VariantName = "[No Variations]"
+Added Component: Designator=ORIGIN(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=RESET-EN(SJ)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ"; VariantName = "[No Variations]"
+Added Component: Designator=TP_0(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_1(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_2(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_3(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_3V3(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_4(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_5(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_5V1(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_5V(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_6(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_7(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_8(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_9(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_10(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_11(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_12(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_13(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_A0(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_A1(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_A2(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_A3(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_A4(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_A5(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_AREF(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_CMP(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_D-(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_D+(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_DTR(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_GATE(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_LCMD(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_LL(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_MISO2(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_MOSI2(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_ONL(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_PB4(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_PB5(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_PB6(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_PB7(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_PWRIN(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_RESET2(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_RESET(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_RX(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_RXL(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_SCK2(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_SCL(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_SDA(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_TX(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_TXL(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_UGND(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_USBVCC(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_USH(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_VIN(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_VUCAP(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_XT1(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_XT2(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_XT3(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_XT4(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Component: Designator=TP_XUSB(TP-SP)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TP_SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TP-SP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin=RESET-EN-1
+Added Pin To Net: NetName=RESET Pin=RESET-EN-2
+Added Pin To Net: NetName=IO0 Pin=TP_0-X
+Added Pin To Net: NetName=IO1 Pin=TP_1-X
+Added Pin To Net: NetName=IO2 Pin=TP_2-X
+Added Pin To Net: NetName=+3V3 Pin=TP_3V3-X
+Added Pin To Net: NetName=IO3 Pin=TP_3-X
+Added Pin To Net: NetName=IO4 Pin=TP_4-X
+Added Pin To Net: NetName=+5V Pin=TP_5V1-X
+Added Pin To Net: NetName=+5V Pin=TP_5V-X
+Added Pin To Net: NetName=IO5 Pin=TP_5-X
+Added Pin To Net: NetName=IO6 Pin=TP_6-X
+Added Pin To Net: NetName=IO7 Pin=TP_7-X
+Added Pin To Net: NetName=IO8 Pin=TP_8-X
+Added Pin To Net: NetName=IO9 Pin=TP_9-X
+Added Pin To Net: NetName=SS Pin=TP_10-X
+Added Pin To Net: NetName=MOSI Pin=TP_11-X
+Added Pin To Net: NetName=MISO Pin=TP_12-X
+Added Pin To Net: NetName=SCK Pin=TP_13-X
+Added Pin To Net: NetName=AD0 Pin=TP_A0-X
+Added Pin To Net: NetName=AD1 Pin=TP_A1-X
+Added Pin To Net: NetName=AD2 Pin=TP_A2-X
+Added Pin To Net: NetName=AD3 Pin=TP_A3-X
+Added Pin To Net: NetName=AD4/SDA Pin=TP_A4-X
+Added Pin To Net: NetName=AD5/SCL Pin=TP_A5-X
+Added Pin To Net: NetName=AREF Pin=TP_AREF-X
+Added Pin To Net: NetName=CMP Pin=TP_CMP-X
+Added Pin To Net: NetName=D+ Pin=TP_D+-X
+Added Pin To Net: NetName=DTR Pin=TP_DTR-X
+Added Pin To Net: NetName=D- Pin=TP_D--X
+Added Pin To Net: NetName=GATE_CMD Pin=TP_GATE-X
+Added Pin To Net: NetName=L13 Pin=TP_LCMD-X
+Added Pin To Net: NetName=NetL_A Pin=TP_LL-X
+Added Pin To Net: NetName=MISO2 Pin=TP_MISO2-X
+Added Pin To Net: NetName=MOSI2 Pin=TP_MOSI2-X
+Added Pin To Net: NetName=NetON_A Pin=TP_ONL-X
+Added Pin To Net: NetName=PB4 Pin=TP_PB4-X
+Added Pin To Net: NetName=PB5 Pin=TP_PB5-X
+Added Pin To Net: NetName=PB6 Pin=TP_PB6-X
+Added Pin To Net: NetName=PB7 Pin=TP_PB7-X
+Added Pin To Net: NetName=PWRIN Pin=TP_PWRIN-X
+Added Pin To Net: NetName=RESET2 Pin=TP_RESET2-X
+Added Pin To Net: NetName=RESET Pin=TP_RESET-X
+Added Pin To Net: NetName=NetRN2_7 Pin=TP_RXL-X
+Added Pin To Net: NetName=M8RXD Pin=TP_RX-X
+Added Pin To Net: NetName=SCK2 Pin=TP_SCK2-X
+Added Pin To Net: NetName=AD5/SCL Pin=TP_SCL-X
+Added Pin To Net: NetName=AD4/SDA Pin=TP_SDA-X
+Added Pin To Net: NetName=NetRN2_6 Pin=TP_TXL-X
+Added Pin To Net: NetName=M8TXD Pin=TP_TX-X
+Added Pin To Net: NetName=UGND Pin=TP_UGND-X
+Added Pin To Net: NetName=NetTP_USBVCC_X Pin=TP_USBVCC-X
+Added Pin To Net: NetName=USHIELD Pin=TP_USH-X
+Added Pin To Net: NetName=VIN Pin=TP_VIN-X
+Added Pin To Net: NetName=TP_VUCAP Pin=TP_VUCAP-X
+Added Pin To Net: NetName=XTAL1 Pin=TP_XT1-X
+Added Pin To Net: NetName=XTAL2 Pin=TP_XT2-X
+Added Pin To Net: NetName=XT1 Pin=TP_XT3-X
+Added Pin To Net: NetName=XT2 Pin=TP_XT4-X
+Added Pin To Net: NetName=XUSB Pin=TP_XUSB-X
+Change Net Color : Old Net Color=Navy New Net Color=Default
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component FD1 FIDUCIALMOUNT
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component FD2 FIDUCIALMOUNT
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component FD3 FIDUCIALMOUNT
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component ORIGIN TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component RESET-EN SJ
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_0 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_1 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_2 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_3 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_3V3 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_4 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_5 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_5V1 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_5V TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_6 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_7 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_8 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_9 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_10 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_11 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_12 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_13 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_A0 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_A1 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_A2 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_A3 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_A4 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_A5 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_AREF TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_CMP TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_D- TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_D+ TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_DTR TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_GATE TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_LCMD TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_LL TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_MISO2 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_MOSI2 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_ONL TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_PB4 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_PB5 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_PB6 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_PB7 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_PWRIN TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_RESET2 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_RESET TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_RX TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_RXL TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_SCK2 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_SCL TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_SDA TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_TX TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_TXL TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_UGND TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_USBVCC TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_USH TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_VIN TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_VUCAP TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_XT1 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_XT2 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_XT3 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_XT4 TP_SP
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component TP_XUSB TP_SP
