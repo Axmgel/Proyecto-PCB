@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=X1-1
+Removed Pin From Net: NetName=PWRIN Pin=X1-2
+Removed Pin From Net: NetName=GND Pin=X1-3
+Removed Member From Class: ClassName=UNO-TH_Rev3e Member=X1
+Change Net Name : Old Net Name=PWRIN New Net Name=NetD1_A

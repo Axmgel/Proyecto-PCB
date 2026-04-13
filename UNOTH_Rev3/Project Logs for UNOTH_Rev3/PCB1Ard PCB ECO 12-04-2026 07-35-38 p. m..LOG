@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=J?-1
+Removed Pin From Net: NetName=PWRIN Pin=J?-2
+Added Pin To Net: NetName=PWRIN Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
