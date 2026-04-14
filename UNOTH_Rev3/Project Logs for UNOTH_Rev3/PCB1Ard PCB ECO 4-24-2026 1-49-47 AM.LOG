@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=+5V Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=+5V Pin=D3-C
+Removed Pin From Net: NetName=GND Pin=GROUND-1
+Removed Pin From Net: NetName=+5V Pin=ICSP1-2
+Removed Pin From Net: NetName=GND Pin=ICSP1-6
+Removed Pin From Net: NetName=+5V Pin=RN1-3
+Removed Pin From Net: NetName=+5V Pin=RN2-2
+Removed Pin From Net: NetName=+5V Pin=RN2-3
+Removed Pin From Net: NetName=DTR Pin=RN2-4
+Removed Pin From Net: NetName=GND Pin=RN2-5
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Pin From Net: NetName=+5V Pin=U3-4
+Removed Pin From Net: NetName=DTR Pin=U3-13
+Removed Pin From Net: NetName=+5V Pin=U3-32
+Removed Pin From Net: NetName=GND Pin=U3-33
+Removed Member From Class: ClassName=UNO-TH_Rev3e Member=C7
+Removed Member From Class: ClassName=UNO-TH_Rev3e Member=C8
+Removed Member From Class: ClassName=UNO-TH_Rev3e Member=C9
+Removed Member From Class: ClassName=UNO-TH_Rev3e Member=C11
+Removed Member From Class: ClassName=UNO-TH_Rev3e Member=D3
+Removed Member From Class: ClassName=UNO-TH_Rev3e Member=GROUND
+Removed Member From Class: ClassName=UNO-TH_Rev3e Member=ICSP1
+Removed Member From Class: ClassName=UNO-TH_Rev3e Member=JP2
+Removed Member From Class: ClassName=UNO-TH_Rev3e Member=R1
+Removed Member From Class: ClassName=UNO-TH_Rev3e Member=U3
+Removed Member From Class: ClassName=UNO-TH_Rev3e Member=Y1
+Added Component: Designator=C20(CAPC0402(1005)60_L)
+Add component (AddParameter): Name = "Capacitor Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=USB SERIAL CONVERTER(SOIC127P600X180-16N)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CH340C/WCH/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CH340C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "WCH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CH340C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CH340C/WCH/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CH340C.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=+5V Pin=F1-1
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=L1-1
+Added Pin To Net: NetName=IO1 Pin=RN2-2
+Added Pin To Net: NetName=IO0 Pin=RN2-3
+Added Pin To Net: NetName=GND Pin=RX-C
+Added Pin To Net: NetName=+5V Pin=T1-1
+Added Pin To Net: NetName=GND Pin=TX-C
+Added Pin To Net: NetName=GND Pin=USB SERIAL CONVERTER-1
+Added Pin To Net: NetName=DTR Pin=USB SERIAL CONVERTER-13
+Added Pin To Net: NetName=+5V Pin=USB SERIAL CONVERTER-16
+Change Net Name : Old Net Name=+5V New Net Name=USBVCC
+Change Net Name : Old Net Name=XUSB New Net Name=NetF1_2
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=USB SERIAL CONVERTER-4
+Added Net: Name=NetC20_1
+Added Pin To Net: NetName=NetRN3_1 Pin=RN3-1
+Added Pin To Net: NetName=NetRN3_1 Pin=USB SERIAL CONVERTER-6
+Added Net: Name=NetRN3_1
+Added Pin To Net: NetName=NetRN3_4 Pin=RN3-4
+Added Pin To Net: NetName=NetRN3_4 Pin=USB SERIAL CONVERTER-5
+Added Net: Name=NetRN3_4
+Added Pin To Net: NetName=NetRN4_7 Pin=RN4-7
+Added Pin To Net: NetName=NetRN4_7 Pin=USB SERIAL CONVERTER-2
+Added Net: Name=NetRN4_7
+Added Pin To Net: NetName=NetRN4_8 Pin=RN4-8
+Added Pin To Net: NetName=NetRN4_8 Pin=USB SERIAL CONVERTER-3
+Added Net: Name=NetRN4_8
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component C20 Capacitor 100nF +/-20% 25V 0402
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component USB SERIAL CONVERTER CH340C
+Added Rule: Name=Schematic Supply Nets_2
