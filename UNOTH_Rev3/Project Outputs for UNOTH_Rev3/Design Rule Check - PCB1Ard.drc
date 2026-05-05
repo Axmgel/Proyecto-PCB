@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\itsgu\Desktop\PanchitoArduino\UNOTH_Rev3\PCB1Ard.PcbDoc
+PCB File : C:\Users\alima\Downloads\6to_Semestre\DiseñoPCBS\ProyectoFinal\Proyecto-PCB\UNOTH_Rev3\PCB1Ard.PcbDoc
 Date     : 05/05/2026
-Time     : 12:06:50 a. m.
+Time     : 04:34:39 p. m.
 
 Processing Rule : Clearance Constraint (Gap=10mil) (Disabled)(All),(All)
 Rule Violations :0
@@ -36,19 +36,10 @@ Rule Violations :0
 Processing Rule : Silk To Solder Mask (Clearance=5mil) (IsPad),(All)
    Violation between Silk To Solder Mask Clearance Constraint: (4.917mil < 5mil) Between Pad C20-1(5549mil,2222mil) on Top Layer And Track (5541.126mil,2204.284mil)(5556.874mil,2204.284mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.917mil]
    Violation between Silk To Solder Mask Clearance Constraint: (4.917mil < 5mil) Between Pad C20-2(5549mil,2186.567mil) on Top Layer And Track (5541.126mil,2204.284mil)(5556.874mil,2204.284mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.917mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad D2-A(6586.614mil,2669.292mil) on Top Layer And Text "USB SERIAL CONVERTER" (5386mil,2619mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad L1-1(5780.31mil,2681mil) on Top Layer And Text "USB SERIAL CONVERTER" (5386mil,2619mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad L1-2(5693.69mil,2681mil) on Top Layer And Text "USB SERIAL CONVERTER" (5386mil,2619mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad IOH-8(5195mil,2630mil) on Multi-Layer And Text "AREF" (5041mil,2615mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad RESET-4(6519.84mil,3103.382mil) on Top Layer And Text "A5" (6547mil,3063mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
    Violation between Silk To Solder Mask Clearance Constraint: (3.93mil < 5mil) Between Pad TX-C(5570.999mil,1945.352mil) on Top Layer And Text "TX" (5555.734mil,1917.797mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.93mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad USB SERIAL CONVERTER-3(5535.613mil,2335.922mil) on Top Layer And Text "C20" (5540mil,2271mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad USB SERIAL CONVERTER-4(5585.613mil,2335.922mil) on Top Layer And Text "C20" (5540mil,2271mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad USB SERIAL CONVERTER-5(5635.613mil,2335.922mil) on Top Layer And Text "C20" (5540mil,2271mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad USB SERIAL CONVERTER-6(5685.613mil,2335.922mil) on Top Layer And Text "C20" (5540mil,2271mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad ZU4-22(5910mil,2685mil) on Multi-Layer And Text "USB SERIAL CONVERTER" (5386mil,2619mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.982mil < 5mil) Between Pad ZU4-23(5910mil,2585mil) on Multi-Layer And Text "USB SERIAL CONVERTER" (5386mil,2619mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.982mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.988mil < 5mil) Between Pad ZU4-6(6210mil,2585mil) on Multi-Layer And Text "USB SERIAL CONVERTER" (5386mil,2619mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.988mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad ZU4-7(6210mil,2685mil) on Multi-Layer And Text "USB SERIAL CONVERTER" (5386mil,2619mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-Rule Violations :14
+Rule Violations :5
 
 Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
 Rule Violations :0
@@ -60,6 +51,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 14
+Violations Detected : 5
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00
